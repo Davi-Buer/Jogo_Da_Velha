@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0&quot; xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance&quot;
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;
     <modelVersion>4.0.0</modelVersion>
-    <groupId>[SEU NOME AQUI, SEM ACENTOS, SEPARADO POR HÍFEN]</groupId>
+    <groupId> Davi Benite Buer </groupId>
     <artifactId>jogo-da-velha</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
